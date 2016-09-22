@@ -2,7 +2,6 @@
 # ThoughtWorks笔试作业
 
 # 目录简介
-—— 
 - cn.thoughtworks.animal.snapshot存放坐标类和历史数据工具类
  - AnimalCoordinate动物坐标类
  - HistoryDataUtil历史数据工具类，提供静态的String getSnapShot(String historyData, String id)方法。
@@ -19,11 +18,11 @@
     - RightDataTest.txt正确的数据测试ErrorDataTest.txt
     
 # 特点
-——
+
 - 代码整洁性 将数据和逻辑代码分开 显得干净
 
 # 关于我
-——
+
 - 代码地址：https://github.com/cnbo/thoughtworks-homework
 - 联系方式：18163912002
 - Email:hubo18163912002@163.com
